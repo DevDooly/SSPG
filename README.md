@@ -9,3 +9,15 @@ SSPG (Site specific password generator.)
 ## 사용 언어 및 프레임워크 ##
 - vue.js(ui) + scalar(api)
 - typescript
+
+## 초기 설정 ( Windows기준 )
+### node/npm, yarn 설치
+node : https://nodejs.org/ko/download/ </br>
+yarn : https://classic.yarnpkg.com/en/docs/install/#windows-stable
+### vue
+공식 홈페이지(설치방법) : https://kr.vuejs.org/v2/guide/installation.html
+### vue-cli
+공식 홈페이지 : https://cli.vuejs.org/
+### VisualStudio Code
+공식 홈페이지(다운로드) : https://code.visualstudio.com/Download </br>
+공식 홈페이지(추천설정) : https://code.visualstudio.com/docs/nodejs/vuejs-tutorial </br>
