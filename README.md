@@ -27,6 +27,8 @@ yarn : https://classic.yarnpkg.com/en/docs/install/#windows-stable
 #### 확장 프로그램
  * Vue VS Code Extension Pack : https://marketplace.visualstudio.com/items?itemName=sdras.vue-vscode-extensionpack
  * Markdown Preview Enhanced : https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced
+
+## 진행
 #### Vuejs + TypeScript
 참고 페이지
  * 마이크로소프트 : https://github.com/Microsoft/TypeScript-Vue-Starter#typescript-vue-starter
