@@ -25,6 +25,7 @@ yarn : https://classic.yarnpkg.com/en/docs/install/#windows-stable
 공식 홈페이지(다운로드) : https://code.visualstudio.com/Download </br>
 공식 홈페이지(추천설정) : https://code.visualstudio.com/docs/nodejs/vuejs-tutorial </br>
 #### 확장 프로그램
+ * Vim : https://marketplace.visualstudio.com/items?itemName=vscodevim.vim
  * Vue VS Code Extension Pack : https://marketplace.visualstudio.com/items?itemName=sdras.vue-vscode-extensionpack
  * Markdown Preview Enhanced : https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced
 
