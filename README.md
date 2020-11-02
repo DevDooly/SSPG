@@ -7,7 +7,7 @@ SSPG (Site specific password generator.)
 
 
 ## 사용 언어 및 프레임워크 ##
-- Vue.js ( 2.6.11 )
+- Vue.js ( ^2.6.11 )
 - JavaScript
 - TypeScript
 - Scalar
